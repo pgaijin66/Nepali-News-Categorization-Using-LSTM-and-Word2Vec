@@ -1,0 +1,15 @@
+nepali_news_dataset_20_categories_large
+archive.zip
+glove.6B.50d.txt
+glove.6B.100d.txt
+glove.6B.200d.txt 
+news_classifier_lstm.h5 
+glove.6B.300d.txt 
+glove.6B.zip 
+label_encoder.pkl 
+nepali_news_dataset_20_categories_large.tar.xz 
+tokenizer.pkl 
+word2vec.model 
+word2vec.model.syn1neg.npy 
+word2vec.model.wv.vectors.npy 
+news_classifier_lstm_with_word2vec.h5
